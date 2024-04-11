@@ -1,2 +1,2 @@
-# career
-project sem4
+# PBL-career_guidance-website
+Career guidance website project for sem3 mini project
